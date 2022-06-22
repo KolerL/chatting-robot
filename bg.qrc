@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="jepg">
+    <file>robotbg.jpeg</file>
+  </qresource>
+</RCC>
